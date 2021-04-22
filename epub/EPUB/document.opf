@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="fidus" xml:lang="af-ZA" prefix="cc: http://creativecommons.org/ns#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="fidus">3</dc:identifier>
+    <dc:title>The Manual</dc:title>
+    <dc:creator>
+      Simon Worthington
+    </dc:creator>
+    <dc:language>af-ZA</dc:language>
+    <meta property="dcterms:modified">2021-04-22T11:48:49Z</meta>
+    <dc:date>2021-04-22</dc:date>
+  </metadata>
+  <manifest>
+    <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml" />
+    <item id="t1" href="document-1.xhtml" media-type="application/xhtml+xml" />
+    <item id="t2" href="document-2.xhtml" media-type="application/xhtml+xml" />
+    <item id="t3" href="document-3.xhtml" media-type="application/xhtml+xml" />
+    <item id="t4" href="document-4.xhtml" media-type="application/xhtml+xml" />
+    <item id="t5" href="document-5.xhtml" media-type="application/xhtml+xml" />
+    <item id="t6" href="document-6.xhtml" media-type="application/xhtml+xml" />
+    <item id="t7" href="document-7.xhtml" media-type="application/xhtml+xml" />
+    <item id="t8" href="document-8.xhtml" media-type="application/xhtml+xml" />
+    <item id="t9" href="document-9.xhtml" media-type="application/xhtml+xml" />
+    <item id="nav" href="document-nav.xhtml" properties="nav" media-type="application/xhtml+xml" />
+    <item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml" />
+    <item id="cover-image" properties="cover-image" href="95f53b45-c014-46ec-be97-2263e670c1ab.png" media-type="image/png" />
+    <item id="img1" href="images/95f53b45-c014-46ec-be97-2263e670c1ab.png" media-type="image/png" />
+    <item id="img2" href="images/1456ed26-02d9-4ed9-aead-5e0c5edd0a76.jpeg" media-type="image/jpeg" />
+    <item id="img3" href="images/6b59c253-fca3-4c9b-8343-787b80a6b011.jpg" media-type="image/jpeg" />
+    <item id="font0" href="css/media/NoticiaText-Bold_2.woff" media-type="font/woff" />
+    <item id="font1" href="css/media/NoticiaText-Regular.woff" media-type="font/woff" />
+    <item id="font2" href="css/media/NoticiaText-Italic.woff" media-type="font/woff" />
+    <item id="font3" href="css/media/NoticiaText-BoldItalic.woff" media-type="font/woff" />
+    <item id="font4" href="css/media/SourceSansPro-Bold.woff" media-type="font/woff" />
+    <item id="css0" href="css/document.css" media-type="text/css" />
+    <item id="css1" href="css/springer.css" media-type="text/css" />
+
+    <!-- ncx included for 2.0 reading system compatibility: -->
+    <item id="ncx" href="document.ncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover" linear="no" />
+    <itemref idref="titlepage" linear="yes" />
+    <itemref idref="t1" linear="yes" />
+    <itemref idref="t2" linear="yes" />
+    <itemref idref="t3" linear="yes" />
+    <itemref idref="t4" linear="yes" />
+    <itemref idref="t5" linear="yes" />
+    <itemref idref="t6" linear="yes" />
+    <itemref idref="t7" linear="yes" />
+    <itemref idref="t8" linear="yes" />
+    <itemref idref="t9" linear="yes" />
+    <itemref idref="copyright" linear="yes" />
+    <itemref idref="nav" linear="no" />
+  </spine>
+</package>
