@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="af">
+  <head>
+    <meta name="dtb:fidus" content="3" />
+  </head>
+  <docTitle>
+    <text>The Manual</text>
+  </docTitle>
+  <navMap>
+
+    <!-- 2.01 NCX: playOrder is optional -->
+    <navPoint id="t0">
+      <navLabel><text>Cover</text></navLabel>
+      <content src="cover.xhtml#cover" />
+    </navPoint>
+    <navPoint id="t1">
+      <navLabel><text>Title page</text></navLabel>
+      <content src="titlepage.xhtml#title" />
+    </navPoint>
+    <navPoint id="t0-1">
+      <navLabel><text>frontmatter</text></navLabel>
+      <content src="document-1.xhtml" />
+      <navPoint id="t_1_0-1">
+        <navLabel><text>Parts of a Publication</text></navLabel>
+        <content src="document-1.xhtml#_1_0" />
+      </navPoint>
+      <navPoint id="t_2_0-2">
+        <navLabel><text>Modern Cloud Infrastructure</text></navLabel>
+        <content src="document-2.xhtml#_2_0" />
+      </navPoint>
+      <navPoint id="t_3_0-3">
+        <navLabel><text>Adding Open Science Services</text></navLabel>
+        <content src="document-3.xhtml#_3_0" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t0-4">
+      <navLabel><text>chapter</text></navLabel>
+      <content src="document-4.xhtml" />
+      <navPoint id="t_4_0-4">
+        <navLabel><text>Connecting to Moodle</text></navLabel>
+        <content src="document-4.xhtml#_4_0" />
+      </navPoint>
+      <navPoint id="t_5_0-5">
+        <navLabel><text>Document Title</text></navLabel>
+        <content src="document-5.xhtml#_5_0" />
+      </navPoint>
+      <navPoint id="t_6_0-6">
+        <navLabel><text>Output Formats</text></navLabel>
+        <content src="document-6.xhtml#_6_0" />
+      </navPoint>
+      <navPoint id="t_7_0-7">
+        <navLabel><text>Table, list</text></navLabel>
+        <content src="document-7.xhtml#_7_0" />
+        <navPoint id="tviv-id-https:003a:002f:002fconsortium:002egithub:002eio:002flt01:002fwebbuch:002fnew-netbuch:002exhtml:0023H8257368-7">
+          <navLabel><text>Leitbild des ÖGD</text></navLabel>
+          <content src="document-7.xhtml#viv-id-https:003a:002f:002fconsortium:002egithub:002eio:002flt01:002fwebbuch:002fnew-netbuch:002exhtml:0023H8257368" />
+        </navPoint>
+        <navPoint id="tviv-id-https:003a:002f:002fconsortium:002egithub:002eio:002flt01:002fwebbuch:002fnew-netbuch:002exhtml:0023H837015-7">
+          <navLabel><text>Der ÖGD in Zahlen</text></navLabel>
+          <content src="document-7.xhtml#viv-id-https:003a:002f:002fconsortium:002egithub:002eio:002flt01:002fwebbuch:002fnew-netbuch:002exhtml:0023H837015" />
+        </navPoint>
+        <navPoint id="tH1636129-7">
+          <navLabel><text>Rapid Collaborative Health Publishing info https://github.com/TIBHannover/Rapid-Collaborative-Health-Publishing</text></navLabel>
+          <content src="document-7.xhtml#H1636129" />
+        </navPoint>
+        <navPoint id="tH3101768-7">
+          <navLabel><text>Fidus - Git Update SW 13.4.2020</text></navLabel>
+          <content src="document-7.xhtml#H3101768" />
+          <navPoint id="tH9605788-7">
+            <navLabel><text>Options for Fidus Writer publication package in Workflow Plan</text></navLabel>
+            <content src="document-7.xhtml#H9605788" />
+            <navPoint id="tH5047983-7">
+              <navLabel><text>EPUB and then post process</text></navLabel>
+              <content src="document-7.xhtml#H5047983" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH6081916-7">
+            <navLabel><text>Header3</text></navLabel>
+            <content src="document-7.xhtml#H6081916" />
+            <navPoint id="tH5874541-7">
+              <navLabel><text>Header4</text></navLabel>
+              <content src="document-7.xhtml#H5874541" />
+            </navPoint>
+            <navPoint id="tH6787224-7">
+              <navLabel><text>Questions and issues</text></navLabel>
+              <content src="document-7.xhtml#H6787224" />
+              <navPoint id="tH337015-7">
+                <navLabel><text>General:</text></navLabel>
+                <content src="document-7.xhtml#H337015" />
+              </navPoint>
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH428481-7">
+            <navLabel><text>Options for Fidus Writer publication package in Workflow Plan</text></navLabel>
+            <content src="document-7.xhtml#H428481" />
+            <navPoint id="tH5347513-7">
+              <navLabel><text>EPUB and then post process</text></navLabel>
+              <content src="document-7.xhtml#H5347513" />
+            </navPoint>
+          </navPoint>
+          <navPoint id="tH7608727-7">
+            <navLabel><text>Multi-format publication package issues</text></navLabel>
+            <content src="document-7.xhtml#H7608727" />
+            <navPoint id="tH2686412-7">
+              <navLabel><text>Key findings</text></navLabel>
+              <content src="document-7.xhtml#H2686412" />
+            </navPoint>
+            <navPoint id="tH1976743-7">
+              <navLabel><text>Questions for Vivlio</text></navLabel>
+              <content src="document-7.xhtml#H1976743" />
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint id="t_8_0-8">
+        <navLabel><text>Image</text></navLabel>
+        <content src="document-8.xhtml#_8_0" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="t0-9">
+      <navLabel><text>backmatter</text></navLabel>
+      <content src="document-9.xhtml" />
+      <navPoint id="t_9_0-9">
+        <navLabel><text>Publications in Fidus Writer</text></navLabel>
+        <content src="document-9.xhtml#_9_0" />
+      </navPoint>
+      <navPoint id="t2">
+        <navLabel><text>Copyright</text></navLabel>
+        <content src="copyright.xhtml#copyright" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
